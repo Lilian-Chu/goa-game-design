@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UnityBasics",
+"dataUrl": "Feb7 - Physics.data.unityweb",
+"asmCodeUrl": "Feb7 - Physics.asm.code.unityweb",
+"asmMemoryUrl": "Feb7 - Physics.asm.memory.unityweb",
+"asmFrameworkUrl": "Feb7 - Physics.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
